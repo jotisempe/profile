@@ -63,11 +63,10 @@ h3 {
   text-align: center;
 }
 
-.btn-red:hover {
+.red-btn:hover {
     background-color: #C61414;
     color: white;
     }
-
 a {
   color: #bcb9b8;
   text-decoration: none;
