@@ -54,7 +54,7 @@ h3 {
   line-height: 0.2px;
 }
 
-.red-btn {
+#red-btn {
   background-color: #DD5555;
   color: white;
   font-weight: 500;
@@ -63,7 +63,7 @@ h3 {
   text-align: center;
 }
 
-.red-btn:hover {
+#red-btn:hover {
     background-color: #C61414;
     color: white;
     }
